@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://i.ibb.co/LPbHTfL/nsfwdoge.jpg?format=jpg&name=900x900" alt="Xeon" width="170" />
 
-## sasuke bot V2
+## Doge bot V2
 
 </div>
 
